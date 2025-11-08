@@ -1,4 +1,10 @@
-# zip2share
+<p align="center">
+  <img src="https://github.com/BR1JM0H4N/zip2share/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Logo" width="150"/>
+</p>
+
+<h1 align="center">zip2share</h1>
+<p align="center"><b>"share as zip" for Android</b></p>
+
 
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
 [![Android CI](https://github.com/BR1JM0H4N/zip2share/actions/workflows/android.yml/badge.svg)](https://github.com/BR1JM0H4N/zip2share/actions/workflows/android.yml)
