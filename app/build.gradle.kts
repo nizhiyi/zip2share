@@ -10,7 +10,7 @@ android {
     
     defaultConfig {
         applicationId = "com.mohan.zip2share"
-        minSdk = 21
+        minSdk = 31
         targetSdk = 35
         versionCode = 3
         versionName = "3.0"
