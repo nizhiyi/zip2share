@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.mohan.zip2share"
-    compileSdk = 33
+    compileSdk = 35
     
     defaultConfig {
         applicationId = "com.mohan.zip2share"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 35
         versionCode = 3
         versionName = "3.0"
         
