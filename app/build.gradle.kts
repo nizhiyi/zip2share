@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.mohan.zip2share"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.mohan.zip2share"
         minSdk = 21
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 5
         versionName = "5.0"
 
@@ -38,7 +38,7 @@ android {
         abi {
             isEnable = true
             reset()
-            include("armeabi-v7a", "arm64-v8a", "x86", "x86_64")
+            include("arm64-v8a")
             isUniversalApk = false
         }
     }
